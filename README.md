@@ -25,15 +25,32 @@ Link Do Meu Certificado No Site Da Scrimba: https://scrimba.com/certificate/uEe3
 THE REACT BOOTCAMP • 2021 • SCRIMBA
 
 Curso de React avançado com o instrutor Bob Ziroll. Aulas interativas focadas em assuntos de nível médio e avançado. 
-o que aprendi com o curso:
 
+O que aprendi com o curso:
 
-React Router      Redux             React.memo()        Children
+React Router
 
-React Context     Render props      PureComponent       shouldComponentUpdate()
+Redux
 
-Higher-order      defaultProps      Otimização          React Hooks       
-components        & propTypes              
+React.memo() 
+
+Children
+
+React Context 
+
+Render props
+
+PureComponent 
+
+shouldComponentUpdate()
+
+Higher-order components  
+
+defaultProps & propTypes   
+
+Otimização 
+
+React Hooks
 
 Link Do Meu Certificado No Site Da Scrimba: https://scrimba.com/certificate/uEe33Qtw/greact
 _____________________________________________________________________________________________________________________
@@ -65,14 +82,33 @@ THE REACT BOOTCAMP • 2021 • SCRIMBA
 
 Advanced React course with the instructor Bob Ziroll. Interactive 
 screen-casts focused on medium and advanced-level subjects.
-what I learned from the course:
 
-React Router      Redux             React.memo()        Children
+What I learned from the course:
 
-React Context     Render props      PureComponent       shouldComponentUpdate()
+React Router
 
-Higher-order      defaultProps      optimization        React Hooks       
-components        & propTypes   
+Redux
+
+React.memo() 
+
+Children
+
+React Context 
+
+Render props
+
+PureComponent 
+
+shouldComponentUpdate()
+
+Higher-order components  
+
+defaultProps & propTypes   
+
+optimization 
+
+React Hooks
+
 
 Link To My Certificate: https://scrimba.com/certificate/uEe33Qtw/greact
 _____________________________________________________________________________________________________________________________________
